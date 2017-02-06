@@ -4,12 +4,18 @@ source 'https://rubygems.org'
 
 
 
-#cloudinary
 #carrierwave
+gem 'carrierwave'
+
+#cloudinary
+gem 'cloudinary'
+
 #font awesome
 gem "font-awesome-rails"
 #bootstrap
 gem 'bootstrap-sass', '~> 3.3.6'
+
+
 #geocoder
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
